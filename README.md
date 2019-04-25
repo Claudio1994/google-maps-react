@@ -1,3 +1,5 @@
+You must add your api key in index.html line 22 "yourKey" and app.js line 64 "yourKey"
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
